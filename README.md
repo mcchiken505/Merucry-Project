@@ -1,3 +1,4 @@
+# <p align="center">Frozen indefinitely</p>
 # <p align = "center">Mercury Project<br>[![OF7R/Mercury Project Website](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/OF7R%20website.svg)](https://of7rewritten.neocities.org/) [![Discord](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/Discord.svg)](https://discord.com/invite/zJVESg2n4d) [![Telegram](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/Telegram.svg)](https://t.me/outfit7rewritten)</p> 
 ### ![MercuryInfo](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/refs/heads/main/img/mercuryinfo.png) What is this? 
 
