@@ -43,6 +43,7 @@ We care about how our ports look and try to make them as close to the original a
 |Game/App name|Percentage of completion|
 |---|:---:|
 |Tom Love Letters|100%|
+|Talking Ginger (Alpha, Unfinished)|90%|
 
 
 ### Talking Games made not Outfit7:
